@@ -6,7 +6,7 @@ import sqlalchemy
 
 
 
-cred = { 'user': 'vishnupriya', 'password': 'yFl#Cy3qzWW7f#OrxW4IB!P'}
+cred = { 'user': 'vishnupriya', 'password': 'P'}
 
 def data_fetch_v2(query,*, 
                   cred=cred, db='aspiredb', 
